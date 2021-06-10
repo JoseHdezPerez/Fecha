@@ -17,7 +17,9 @@ public class Fecha{
 
         SimpleDateFormat formato;
         Date hoy;
-		//Hola que tal esto es otra prueba más de junit
+		//Hola que tal esto es otra prueba más de junit, 
+		//ahora nos bajamos esto a la copia local para ver si este comentario se ha modificado desde githu
+	
         public Fecha() {
             hoy = new Date();
         }
