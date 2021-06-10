@@ -17,7 +17,7 @@ public class Fecha{
 
         SimpleDateFormat formato;
         Date hoy;
-
+		//Hola que tal esto es otra prueba más de junit
         public Fecha() {
             hoy = new Date();
         }
